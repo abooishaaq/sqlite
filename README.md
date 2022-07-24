@@ -1,2 +1,2 @@
 # sqlite
-a sqlite clone in zig
+a sqlite clone in rust
